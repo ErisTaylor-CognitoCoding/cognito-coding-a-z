@@ -1,6 +1,6 @@
 # Cognito Coding — Learn to Code A–Z
 
-> **Learn To Code By Building Real Things.**  
+> **Learn To Code Through Games, Challenges And Real Builds.**  
 > No fluff. No theory dumps. Just real code.
 
 This is the companion repo to the **[Cognito Coding YouTube channel](https://www.youtube.com/@CognitoCoding01)**.
